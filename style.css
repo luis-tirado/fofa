@@ -1,0 +1,46 @@
+*{
+    background-color: bisque;
+}
+
+h1{
+    display: block;
+    justify-content: center;
+    background-color:white;
+    text-align: center;
+    width: 35rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+.container-principal #foto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25rem;
+    border-radius: 10px;
+}
+.container-principal h2{
+    text-align: center;
+}
+
+.container-principal #codigo{
+    width: 15rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-trofeo{
+    display: flex;
+    justify-content: center;
+}
+
+.container-trofeo #trofeo{
+    width: 10rem;
+    transform: rotate(45deg);
+    margin-left: 8rem;
+}
+
+.container-trofeo #fuegos{
+    width: 13rem;
+}
